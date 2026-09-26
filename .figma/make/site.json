@@ -1,0 +1,10 @@
+{
+  "description": "This innovative fitness platform offers real-time exercise tracking and form correction using camera-based technology, ensuring safe workouts for beginners and enthusiasts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
